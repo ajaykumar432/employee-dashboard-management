@@ -12,6 +12,7 @@ Fallow the step to run this project ->
    
 Project Overview
 The Employee Management Dashboard allows organizations to manage employees efficiently with features like:
+
 Secure login & protected routes
 Employee listing with active/inactive status
 Employee status toggle (activate/deactivate)
@@ -21,7 +22,8 @@ Clean, scalable, and maintainable code structure
 
 The project follows industry-standard React practices including lazy loading, reusable components, and optimized rendering.
 
-Tech Stack Used
+Tech Stack Used -
+
 Frontend
 React.js (Functional Components & Hooks)
 React Router DOM (HashRouter)
@@ -32,7 +34,7 @@ React Hooks (useState, useMemo, useCallback)
 Lazy Loading with React.lazy & Suspense
 
 Other
+
 LocalStorage (temporary data persistence)
 SVG Icons
-
 Responsive & mobile-first design
