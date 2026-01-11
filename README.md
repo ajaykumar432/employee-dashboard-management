@@ -16,7 +16,6 @@ The Employee Management Dashboard allows organizations to manage employees effic
 Secure login & protected routes
 Employee listing with active/inactive status
 Employee status toggle (activate/deactivate)
-Attendance, notifications, and reports modules
 Fully responsive UI for mobile, tablet, and desktop
 Clean, scalable, and maintainable code structure
 
