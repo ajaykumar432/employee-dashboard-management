@@ -20,6 +20,7 @@ Fully responsive UI for mobile, tablet, and desktop
 Clean, scalable, and maintainable code structure
 
 The project follows industry-standard React practices including lazy loading, reusable components, and optimized rendering.
+
 Tech Stack Used
 Frontend
 React.js (Functional Components & Hooks)
